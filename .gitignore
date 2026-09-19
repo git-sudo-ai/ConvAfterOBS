@@ -1,0 +1,30 @@
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Системные файлы macOS и Windows
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Локальные персональные файлы
+my_QR.png
+
+# Тестовые видео и временные файлы
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.flv
+*.m4v
+*.log
+*.tmp
+
+# Редакторы кода и IDE
+.idea/
+.vscode/
+*.swp
+*.swo
